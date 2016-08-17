@@ -1,6 +1,6 @@
 # Introduction
 
-ImageJ is a commonly used software among biologist for image analysis. However, the batch mode in imageJ is not the most user-friendly 
+ImageJ is a commonly used software among biologists for image analysis. However, the batch mode in imageJ is not the most user-friendly 
 way to automate image analysis. One of the best way for automating a series of commands in imageJ is **Macro**. Here is a list of 
 imageJ macros that may save you a few hours:
 
