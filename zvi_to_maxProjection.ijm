@@ -10,7 +10,7 @@ if(endsWith(filename[i], ".zvi")) {
 
 	open(path+filename[i]);
 	saveAs("Tiff", newDir + 'stack' + getTitle);
-	run("Z Project...", "start = 3, projection=[Max Intensity]");
+	run("Z Project...", "projection=[Max Intensity]");
 	saveAs("tiff", newDir + getTitle);
 	close(); close();
 }
