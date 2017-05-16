@@ -19,5 +19,7 @@ imageJ macros that may save you a few hours:
   A script automatically open Zeiss format images within a folder and save as tif files and perform max projectoin (FIJI only);   
 7. lif_to_maxProjection.ijm:    
   A script automatically open Leica format images within a folder and save as tif files and perform max projectoin (FIJI only);
+8. images_to_stack_pathway855.ijm:
+  A script automatically assemble time lapse videos for data from Pathway855 high throughput microscope;
   
 A general introduction of Macro Language: [ImageJ Macro Language](https://rsb.info.nih.gov/ij/developer/macro/macros.html)
